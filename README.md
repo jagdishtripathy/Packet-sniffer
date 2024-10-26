@@ -25,7 +25,7 @@ bash
 
 Copy code
 
-`git clone https://github.com/yourusername/network-packet-analyzer.git
+`git clone https://github.com/jagdishtripathy/network-packet-analyzer.git
 cd network-packet-analyzer`
 
 ### 2\. Install Dependencies
